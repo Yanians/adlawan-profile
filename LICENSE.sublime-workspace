@@ -1,0 +1,475 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"click",
+				"clickExperience"
+			],
+			[
+				"clcik",
+				"clickEducation"
+			],
+			[
+				"materila",
+				"material-icons"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"four",
+				"fourteen"
+			],
+			[
+				"in",
+				"initial\tfont-style"
+			],
+			[
+				"profi",
+				"profile"
+			],
+			[
+				"prof",
+				"profId"
+			],
+			[
+				"div",
+				"divMain"
+			],
+			[
+				"di",
+				"divMain"
+			],
+			[
+				"show",
+				"showCompany"
+			],
+			[
+				"comp",
+				"Component"
+			],
+			[
+				"sho",
+				"showEducation"
+			],
+			[
+				"html",
+				"htmlform"
+			],
+			[
+				"compny",
+				"company"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"mainNav",
+				"mainNavigation"
+			],
+			[
+				"redun",
+				"redundantNavig"
+			],
+			[
+				"main",
+				"mainNavigation"
+			],
+			[
+				"profile",
+				"profileData"
+			],
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"co",
+				"course"
+			],
+			[
+				"high",
+				"highSchool"
+			],
+			[
+				"ye",
+				"yrGraduated"
+			],
+			[
+				"sch",
+				"schlAddress"
+			],
+			[
+				"sma",
+				"smaller\tfont-size"
+			],
+			[
+				"smal",
+				"x-small\tfont-size"
+			],
+			[
+				"bor",
+				"border-top-width\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"box",
+				"box-decoration-break\tproperty"
+			],
+			[
+				"lar",
+				"xx-large\tfont-size"
+			],
+			[
+				"font-sty",
+				"font-synthesis\tproperty"
+			],
+			[
+				"ex",
+				"extra-condensed\tfont-stretch"
+			],
+			[
+				"fon",
+				"font-stretch\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"sh",
+				"shadow-red"
+			],
+			[
+				"BACKGROUND",
+				"background-color\tproperty"
+			],
+			[
+				"heigh",
+				"Height"
+			],
+			[
+				"ya",
+				"year_birth"
+			],
+			[
+				"F",
+				"full_name"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"fu",
+				"full_name"
+			],
+			[
+				"mainNa",
+				"mainNavigation"
+			],
+			[
+				"schl",
+				"schlName"
+			],
+			[
+				"direct",
+				"director"
+			],
+			[
+				"hasO",
+				"hasOwnProperty"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"is",
+				"isArray"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"isArra",
+				"isArrayLike"
+			],
+			[
+				"NO",
+				"NODE_TYPE_ELEMENT"
+			],
+			[
+				"NODE",
+				"NODE_TYPE_TEXT"
+			],
+			[
+				"app",
+				"app3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"getelements",
+				"Snippet: Get Elements"
+			],
+			[
+				"getTe",
+				"Snippet: Get Elements"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"function locationGetterSetter(property,preprocess){",
+			"function()",
+			"url",
+			"show",
+			"run"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/yan19/Documents/ES6/webpack.config.js",
+		"/C/Users/yan19/Downloads/materialize-src/sass/components/forms/_forms.scss",
+		"/C/Users/yan19/Desktop/_sass/materialize.css",
+		"/C/Users/yan19/Documents/ES6/build/main.bundle.js",
+		"/C/Users/yan19/Documents/ES6/build/main.bundle.js.map",
+		"/C/Users/yan19/Documents/ES6/js/jquery-3.1.1.js",
+		"/C/Users/yan19/Documents/ES6/environment/htmlContent.js",
+		"/C/Users/yan19/Documents/ES6/main.js",
+		"/C/Users/yan19/Documents/ES6/html/main.html",
+		"/C/Users/yan19/Documents/ES6/js/materialize.js",
+		"/C/Users/yan19/Documents/ES6/js/edu.js",
+		"/C/Users/yan19/Documents/ES6/css/brianstyles.css",
+		"/C/Users/yan19/Documents/ES6/environment/component.js",
+		"/C/Users/yan19/Documents/ES6/environment/Main.js",
+		"/D/babel-example/contentCode/component.js",
+		"/C/Users/yan19/Documents/ES6/css/materialize.css",
+		"/C/Users/yan19/Documents/ES6/environment/invoker.js",
+		"/D/trespaylas-2019/public/js/app2.js",
+		"/D/trespaylas-2019/public/css/brianstyles.css",
+		"/D/trespaylas-2019/public/js/app.js",
+		"/D/very important/PROGRAMMING FILES/flight-app/public/js/app.js",
+		"/C/Users/yan19/Documents/ES6/.babelrc",
+		"/C/Users/yan19/Documents/ES6/js/materialize.min.js",
+		"/D/very important/demo-babel-decode-es6/index.js",
+		"/C/Users/yan19/Documents/ES6/js/index.js",
+		"/D/very important/demo-babel-decode-es6/app.js",
+		"/D/babel-example/src/index.html",
+		"/D/very important/from download/sweetalert-master/sweetalert-master/dist/sweetalert.css",
+		"/C/Users/yan19/Desktop/bryt.jpg",
+		"/D/very important/animation-1/js/tuxedo.js",
+		"/D/very important/animation-3/js/npm.js",
+		"/D/very important/flickerSearch/js/app.js",
+		"/D/very important/jsonNovember2017/json2.js",
+		"/D/very important/New folder/18 Shake _ 100% Natural Meal Replacement Shakes.html",
+		"/C/Users/yan19/Documents/ES6/html/18shake.html",
+		"/D/very important/New folder/18 Shake _ 100% Natural Meal Replacement Shakes_files/animate.css",
+		"/C/Users/yan19/Documents/ES6/node_modules/unique-filename/coverage/base.css",
+		"/C/Users/yan19/Documents/ES6/trial.js",
+		"/C/Users/yan19/Documents/ES6/node_modules/snapdragon/lib/parser.js",
+		"/D/htdocs/clearance/resources/assets/css/plugins/ckeditor/ckeditor.js",
+		"/D/htdocs/clearance/vendor/mockery/mockery/library/Mockery.php",
+		"/C/Users/yan19/Documents/ES6/node_modules/terser/dist/bundle.js",
+		"/C/Users/yan19/Documents/ES6/node_modules/@babel/standalone/babel.js",
+		"/C/Users/yan19/Documents/ES6/angular-1.4.6/angular.js",
+		"/D/htdocs/clearance/vendor/phpdocumentor/reflection-common/src/Location.php",
+		"/C/Users/yan19/Documents/ES6/node_modules/babel-runtime/node_modules/core-js/client/core.js",
+		"/C/Users/yan19/Documents/ES6/node_modules/babel-runtime/node_modules/core-js/client/library.js",
+		"/C/Users/yan19/Documents/ES6/node_modules/@babel/core/lib/index.js",
+		"/C/Users/yan19/Downloads/www.w3schools.com/w3Database.js",
+		"/C/Users/yan19/Documents/ES6/node_modules/pump/index.js",
+		"/C/Users/yan19/Documents/ES6/node_modules/lodash/lodash.js",
+		"/C/Program Files/Common Files/McAfee/platform/AltCategoryMap.xml",
+		"/C/Program Files/Common Files/McAfee/platform/McUICnt.VisualElementsManifest.xml",
+		"/C/Users/yan19/Downloads/Users/program files/www.w3schools.com/appml/2.0.2/appml.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LICENSE.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

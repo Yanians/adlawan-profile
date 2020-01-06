@@ -1,0 +1,48 @@
+.inner-container{
+	width:auto;
+      height: auto;
+      background:rgba(04,78,24,.4);
+    }
+ .material-icons.shadow-green {
+    color: #669933;
+     }
+
+     .material-icons.shadow-blue {
+    color: #000066;
+     }
+
+       .material-icons.shadow-yellow {
+    color: #CCCC00;
+     }
+
+
+       .material-icons.shadow-red {
+    color: #FF0000;
+     }
+
+     .sideNav-bg{
+     	background:rgba(09,78,24,.1); 
+     }
+      .navSearch{
+      margin-top: 5%;
+      padding:7.5%;
+      
+      }
+
+      .sideNav-parent{
+    	background:rgba(123,78,24,1); 
+      }
+
+        .material-icons.md-18 { font-size: 18px; }
+		.material-icons.md-24 { font-size: 24px; }
+		.material-icons.md-36 { font-size: 36px; }
+		.material-icons.md-48 { font-size: 48px; }
+
+      .thin-text{
+	font-weight: 600;
+	font-style:  sans-serif;
+	/*background:rgba(96, 125, 139, .2);*/
+	padding:2%;
+	/*border-radius: 10px;*/
+	text-shadow: 1px 1px white;
+}
