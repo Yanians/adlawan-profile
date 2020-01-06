@@ -16,7 +16,8 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Yanians/adlawan-profile/issues"
+    "url": "https://github.com/Yanians/adlawan-profile/issues",
+    "url":"https://devcenter.heroku.com/articles/nodejs-support#specifying-a-node-js-version"
   },
   "homepage": "https://github.com/Yanians/adlawan-profile#readme",
   "devDependencies":{
