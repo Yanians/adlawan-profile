@@ -32,7 +32,14 @@
      "webpack-cli":"^3.3.1"
     },
  "dependencies":{
- "git":"^0.1.5",
- "http-server":"^0.11.1"
- }
+  "consolidate": "^0.14.4",
+  "express": "^4.14.0",
+  "handlebars": "^4.0.5",
+  "swig": "^1.4.2",
+  "git":"^0.1.5",
+  "http-server":"^0.11.1"
+ },
+ "engines": {
+    "node": "4.4.7"
+  }
 }
